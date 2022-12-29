@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/8082932/connecting-n-commands-with-pipes-in-a-shell
+
+https://stackoverflow.com/questions/60804552/pipe-two-or-more-shell-commands-in-c-using-a-loop
